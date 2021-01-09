@@ -2,4 +2,20 @@ body{
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: deeppink;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    color: #333;
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #333;
+    margin: auto;
+}
+
+#container h1{
+    font-size: 30px;
 }
