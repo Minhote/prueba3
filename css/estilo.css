@@ -7,6 +7,12 @@ body{
     padding: 0;
 }
 
+#cabecera{
+    color: darkblue;
+    font-size: 20px;
+    text-align: center;
+}
+
 #container{
     color: #333;
     width: 70%;
