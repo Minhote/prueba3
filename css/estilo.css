@@ -8,18 +8,18 @@ body{
 }
 
 #cabecera{
-    color: darkblue;
+    color:teal;
     font-size: 27px;
     text-align: center;
     padding: 20px;
-    background-color: darkorchid;
+    background-color:mediumpurple;
     width: 70%;
     margin: auto;
     font-weight: bold;
 }
 
 #container{
-    color: #333;
+    color:blueviolet;
     width: 70%;
     padding: 1em;
     text-align: left;
