@@ -7,6 +7,17 @@ body{
     padding: 0;
 }
 
+#cabecera{
+    color: darkblue;
+    font-size: 27px;
+    text-align: center;
+    padding: 20px;
+    background-color: darkorchid;
+    width: 70%;
+    margin: auto;
+    font-weight: bold;
+}
+
 #container{
     color: #333;
     width: 70%;
