@@ -9,9 +9,13 @@ body{
 
 #cabecera{
     color: darkblue;
-    font-size: 20px;
+    font-size: 27px;
     text-align: center;
     padding: 20px;
+    background-color: darkorchid;
+    width: 70%;
+    margin: auto;
+    font-weight: bold;
 }
 
 #container{
