@@ -14,7 +14,7 @@ body{
     text-align: left;
     padding: 17px;
     background-color:firebrick;
-    width: 70%;
+    width: 69.5%;
     margin: auto;
     font-weight: bold;
     vertical-align: center;
@@ -45,7 +45,13 @@ body{
     font-size: 30px;
 }
 
-#post #container{
-    background-color: white ;
+#pie{
+    background-color: darkseagreen;
+    width: 71.7%;
+    margin: auto;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    padding: 5px;
+    font-size: 20px;
 }
-
