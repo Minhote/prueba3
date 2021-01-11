@@ -1,4 +1,5 @@
 body{
+    background-color: darkolivegreen;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color: deeppink;
@@ -10,12 +11,25 @@ body{
 #cabecera{
     color:greenyellow;
     font-size: 27px;
-    text-align: center;
-    padding: 20px;
+    text-align: left;
+    padding: 17px;
     background-color:firebrick;
     width: 70%;
     margin: auto;
     font-weight: bold;
+    vertical-align: center;
+}
+
+#cabecera #logo{
+    width: 10%;
+    vertical-align: middle;
+}
+
+#cabecera p{
+    width: 85%;
+    float: right;
+    text-align: left;
+    line-height: 35px;
 }
 
 #container{
@@ -30,3 +44,8 @@ body{
 #container h1{
     font-size: 30px;
 }
+
+#post #container{
+    background-color: white ;
+}
+
